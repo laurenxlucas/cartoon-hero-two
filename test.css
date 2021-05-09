@@ -1,19 +1,16 @@
-body{
-    background-color: teal;
+body-style{
+    background-color: lightgrey;   
 }
-
-h1{
+h1 {
     font-size: 30px;
     color: teal;
 }
-
 h2{
     color: red;
-    font-size: 20px;    
+    font-size: 20px;
 }
-
-h2{
-    color: green;
+h2 {
+    color: green
 }
 
 .big{
@@ -25,9 +22,9 @@ h2{
 }
 
 .big.uppercase{
-    color: navy;
+    color:navy;
 }
 
 h1 span{
-    color:violet;
+    color: violet;
 }
